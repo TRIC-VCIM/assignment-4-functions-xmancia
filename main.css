@@ -8,3 +8,68 @@ img {
   margin-top: 3rem;
   width: 100%;
 }
+
+.olive {
+  background-color: olive;
+}
+
+.orange {
+  background-color: orange;
+}
+
+.red {
+  background-color: red;
+}
+
+.blue {
+  background-color: blue;
+}
+
+.purple {
+  background-color: purple;
+}
+
+.yellow {
+  background-color: yellow;
+}
+
+.pink {
+  background-color: pink;
+}
+
+.brown {
+  background-color: beige;
+}
+
+.skyblue {
+  background-color: skyblue;
+}
+
+.lightcoral {
+  background-color: lightcoral;
+}
+
+
+.helvetica {
+  font-family: Arial, Helvetica, sans-serif
+}
+
+.cambria {
+  font-family: Cambria;
+}
+
+.tahoma {
+  font-family: Tahoma;
+}
+
+.cursive {
+  font-family: cursive;
+}
+
+.calibri {
+  font-family: calibri;
+}
+
+.geneva {
+  font-family: geneva;
+}
